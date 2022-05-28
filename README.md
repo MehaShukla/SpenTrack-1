@@ -1,5 +1,9 @@
 # SpenTrack
 This is the app made during learning Android in android campaign by GDSC
+
+
+![Android](https://user-images.githubusercontent.com/75724727/170823876-10ae54ec-7db5-4761-8e25-1d17d164b8a2.png)
+
 This app would allow you to do the following:-
 
      >You can set budgets 
